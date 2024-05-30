@@ -1,8 +1,8 @@
 ## Olá, sou o Ariel Spencer 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
-- 🎓 FAM
+- 🔭 Atualmente em busca de novas oportunidades
+- 🌱 Estudando JavaScript e me aprimorando no Front-end
+- 🎓 FAM - Análise e Desenvolvimento de Sistemas
 
 ##
 
