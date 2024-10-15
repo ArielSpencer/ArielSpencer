@@ -1,7 +1,8 @@
 ## Olá, sou o Ariel Spencer 👋
 
 - 🔭 Atualmente em busca de novas oportunidades
-- 🌱 Me aprimorando como Desenvolvedor Front-end
+- 🎨 Desenvolvedor Front-end
+- 🌱 Me aprimorando como Desenvolvedor Back-end
 - 🎓 FAM - Análise e Desenvolvimento de Sistemas
 
 ##
@@ -14,7 +15,10 @@
 </a>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ariel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Ariel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Ariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Ariel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ariel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
