@@ -8,10 +8,10 @@
 ##
 
 <a href="https://arielspencer.com.br/">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=arielspencer&show_icons=true&theme=jolly&locale=pt-br" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=arielspencer&show_icons=true&theme=nord&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielspencer&layout=compact&theme=jolly&locale=pt-br&card_width=320" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielspencer&layout=compact&theme=nord&locale=pt-br&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
