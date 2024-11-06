@@ -1,8 +1,8 @@
 ## Olá, sou o Ariel Spencer 👋
 
 - 🔭 Atualmente em busca de novas oportunidades
-- 🎨 Desenvolvedor Front-end
-- 🌱 Me aprimorando como Desenvolvedor Back-end
+- 🎨 Desenvolvedor FullStack
+- 🌱 Me aprimorando como Desenvolvedor Swift
 - 🎓 FAM - Análise e Desenvolvimento de Sistemas
 
 ##
@@ -11,22 +11,23 @@
   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=arielspencer&show_icons=true&theme=nord&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielspencer&layout=compact&theme=nord&locale=pt-br&card_width=320" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSpencer&layout=compact&theme=nord&locale=pt-br&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ariel-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Ariel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Ariel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Ariel-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Ariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Ariel-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Ariel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ariel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ariel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ariel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Ariel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ariel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Ariel-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ariel-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Ariel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Ariel-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
   
 ##
